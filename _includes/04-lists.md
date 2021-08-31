@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. code
+2. get
+3. pandas
+4. 
